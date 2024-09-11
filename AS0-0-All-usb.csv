@@ -52,3 +52,17 @@
 103.127.248.51,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
 103.115.40.133,36332,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
 102.129.195.189,50587,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
+140.83.61.244,443,443,TRUE,KIX,Asia Pacific,Osaka,291 ms,5300 kB/s
+27.50.48.3,443,443,TRUE,LAX,North America,Los Angeles,142 ms,14072 kB/s
+193.227.99.176,443,443,TRUE,LAX,North America,Los Angeles,173 ms,12984 kB/s
+104.129.166.9,443,443,TRUE,LAX,North America,Los Angeles,173 ms,12452 kB/s
+204.93.210.84,443,443,TRUE,LAX,North America,Los Angeles,176 ms,12322 kB/s
+204.93.210.86,443,443,TRUE,LAX,North America,Los Angeles,163 ms,12140 kB/s
+204.93.210.86,443,443,TRUE,LAX,North America,Los Angeles,171 ms,11797 kB/s
+204.93.210.84,443,443,TRUE,LAX,North America,Los Angeles,176 ms,11686 kB/s
+27.50.48.91,443,443,TRUE,LAX,North America,Los Angeles,164 ms,10112 kB/s
+185.135.9.90,443,443,TRUE,LAX,North America,Los Angeles,159 ms,8283 kB/s
+185.135.9.90,443,443,TRUE,LAX,North America,Los Angeles,193 ms,8122 kB/s
+154.23.240.179,443,443,TRUE,LAX,North America,Los Angeles,166 ms,0 kB/s
+130.162.184.173,443,443,TRUE,LHR,Europe,London,171 ms,9875 kB/s
+130.162.184.173,443,443,TRUE,LHR,Europe,London,176 ms,8129 kB/s
