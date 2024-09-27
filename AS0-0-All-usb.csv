@@ -1,569 +1,569 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-52.175.33.38,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-219.76.13.183,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-123.202.145.26,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-138.19.30.55,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-58.176.95.46,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.127.248.51,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-8.223.39.101,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-219.76.13.177,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.125.215,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.175.14.144,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.159.196.17,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.154.235.241,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-221.127.50.207,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-23.26.217.213,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-156.251.176.83,63294,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.245.27,30216,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-45.152.64.147,36031,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.89,25122,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.89,27014,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.245.27,33463,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.89,27054,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.247.134.147,47575,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.245.27,29513,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.245.27,43678,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.79.224,65250,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.245.11,21333,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-5.180.98.146,22827,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.245.27,21396,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.89,27061,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.245.11,12573,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.245.11,32305,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.245.27,18241,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.245.11,58150,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-89.213.239.190,48832,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.245.11,19075,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-202.181.27.218,14526,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.245.11,38645,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.240.13.199,41846,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-165.154.43.92,35184,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-89.213.219.24,28411,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.91.177,40110,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-45.207.11.69,8899,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.89,27013,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.89,25930,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.245.11,12493,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.245.11,43330,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.89,30387,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.245.27,41220,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.89,27033,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.201.93.212,19443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.76.100.62,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.245.27,16703,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.125,59217,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.90.152,34052,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-152.32.240.153,34237,2096,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.6.167.31,12666,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-165.154.43.92,35181,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31186,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.255.208.101,58582,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31170,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31173,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31126,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31168,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31121,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31171,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31179,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31147,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31195,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31172,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31185,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31191,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-219.76.13.166,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.216.175,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-42.3.74.25,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-8.210.215.39,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-219.76.13.180,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-219.76.13.186,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-219.76.13.181,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.220.72.40,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-219.76.13.169,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.2,21333,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.209,27709,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-45.87.103.78,19527,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.92,43678,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.105,20174,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.99,53448,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-157.254.32.30,27333,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.2,21723,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.105,31005,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.92,14088,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.209,16327,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.209,45804,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.105,27033,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-45.87.102.140,24852,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.105,27054,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.2,25200,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.105,27051,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.2,56545,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.105,25953,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.250,41482,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.99,25127,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.99,23615,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.209,53757,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.2,12573,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.99,43412,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.2,43330,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.92,21396,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.250,11937,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.92,31114,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.209,50729,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.92,41686,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.105,25111,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.92,26738,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.250,12381,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.2,29099,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.92,33463,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.192.179.186,25716,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.76.209,48156,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-219.76.13.164,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.209,22153,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-89.213.219.224,8443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-91.229.132.209,59430,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.216.250,12132,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.149.27.36,34237,2096,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.192,18732,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.192,45564,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.92,29513,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.173,52273,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.192,27383,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.192,49824,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.99,53787,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.92,27483,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.250,48940,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.173,24452,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.92,18241,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.192,31089,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.173,14648,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.173,39682,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-46.3.105.223,25629,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.177,50625,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.173,51846,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.250,34694,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.99,22761,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.173,45448,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.2,38645,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.92,30216,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.173,12365,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.192,28141,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.92,49877,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.92,41220,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.173,46962,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.209,24729,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-104.129.166.9,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.2,44348,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.209,44946,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.173,48548,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.177,41376,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.209,47761,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.209,33119,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.173,15641,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.250,54707,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.150.57.3,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.209,26887,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.3,59449,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.92,47509,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.192,45880,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.247.134.147,17043,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31177,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31184,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31189,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-206.237.21.220,24554,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31187,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.90.242,62001,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-178.253.32.30,52126,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31166,0,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-178.253.32.28,2024,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31143,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-152.32.168.249,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-46.3.110.5,27361,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-46.3.110.5,36791,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-46.3.110.5,52386,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-46.3.110.5,19515,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-46.3.108.134,6812,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-46.3.107.99,10716,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-46.3.107.123,14559,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-46.3.105.154,8711,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-45.39.199.63,12662,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.142.7,42612,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-37.123.196.17,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-3.112.254.49,2086,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-223.222.13.132,30491,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-178.253.32.134,56145,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-178.173.249.23,55737,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.152,27050,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.152,30387,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.152,27051,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.152,25930,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.152,27013,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.152,25950,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.152,27054,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.152,40722,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.152,31005,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.152,25122,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.152,27061,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.152,25953,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.152,27043,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.2,28301,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.174,42973,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.174,35795,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.174,11937,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.174,56111,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.174,47184,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.174,53831,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.174,22516,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.174,59473,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.174,23989,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.174,54707,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.174,11404,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31125,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31123,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31176,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31165,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31181,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31192,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31180,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31197,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31194,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31196,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.158,27312,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.216.141,50312,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-128.1.132.82,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.28.68.198,36567,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.255.209.141,48457,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.242.3.203,33999,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.115.40.133,36332,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-102.129.195.189,50587,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.238.71.9,8443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.89,20174,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.89,25956,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.89,25111,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.2,29149,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.89,25953,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.173,13564,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.250,53831,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.192,40353,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.192,44378,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31198,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-89.213.239.182,44366,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-206.237.20.121,50714,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,31175,8443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-158.101.177.92,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-8.222.101.17,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-144.21.59.244,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.144.236.15,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-152.70.176.35,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-129.146.175.160,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.147.101.8,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.148.227.132,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.147.114.14,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-193.123.56.103,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-79.72.95.86,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-143.47.249.74,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-158.180.51.0,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-130.162.32.88,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-146.235.197.123,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-138.2.166.98,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-193.123.59.34,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-158.178.158.105,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.144.235.110,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-138.2.174.120,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-158.178.158.13,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-152.67.249.123,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-150.230.47.3,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-158.101.222.88,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-138.2.174.151,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.145.199.188,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-130.162.62.62,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-193.123.62.65,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-165.1.123.204,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-143.47.245.162,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.147.100.202,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-129.151.204.91,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.88.15.127,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-152.70.147.64,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.148.227.19,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-129.159.243.212,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-150.230.151.64,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.147.52.6,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-143.47.231.33,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-143.47.241.61,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-132.145.95.91,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-84.235.164.74,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-130.162.189.89,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-84.235.162.153,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-139.185.34.131,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.147.73.249,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-152.70.178.125,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-144.24.167.194,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-84.8.144.220,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-129.153.126.67,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.147.90.14,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-193.123.56.162,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-84.235.160.207,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-158.101.214.60,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-193.123.62.150,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-144.21.49.241,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-132.145.237.179,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-46.3.105.217,10043,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.2,58150,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-46.3.104.191,28761,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.20.223.95,18636,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-46.3.105.217,10072,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.173,58152,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.89,27051,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-134.122.169.36,42779,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.149.48,35333,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-46.3.107.123,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-45.78.31.62,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.141.236.203,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-144.21.33.134,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-13.224.163.91,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.92.146.104,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.174,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.74.192.175,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.83.13.99,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-45.93.30.154,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.238.40.58,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.77.234,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-46.3.108.134,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-46.3.110.5,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.242.171.94,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.150.73.251,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-193.227.99.176,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.76.77.103,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-16.163.147.103,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.92.207.37,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.116.245.179,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-27.124.47.217,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.160.204.92,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.225.199.234,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.245.29,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-112.118.186.180,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.150.64.66,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.76.214.139,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.150.9.168,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.194.64.37,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-101.36.111.47,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-69.160.170.153,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.147.42.183,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.238.35.50,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.237.88.147,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-112.120.127.147,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.76.203.101,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-8.218.142.253,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.92.86.239,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-118.193.33.119,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-119.63.98.86,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.38.83.204,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-35.241.122.48,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-202.181.27.218,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-8.217.145.40,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.135.248.96,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-1.36.221.186,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.160.204.79,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.155.22.176,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-8.210.164.75,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.243.107.148,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.155.92.72,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-192.9.250.241,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.154.96.33,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-58.82.242.199,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-204.93.210.84,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.236.9.152,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-220.246.236.57,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.143.160.206,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-112.120.127.242,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.76.233.67,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.237.83.20,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-202.181.188.14,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-46.3.107.99,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-156.251.183.223,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-168.70.86.162,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-72.255.232.8,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.160.204.72,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.243.60.150,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-193.123.34.202,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-183.80.111.212,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-185.135.9.90,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-93.177.77.114,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-45.39.199.63,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.245.138,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.243.222.245,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.86.20.184,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-93.179.126.118,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.154.236.53,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.92.127.151,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-104.29.69.86,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-27.50.48.91,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-156.251.180.226,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-1.36.251.126,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.132.218,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-122.10.42.247,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-45.8.186.192,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-219.79.232.74,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.229.154.72,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-1.36.190.230,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-8.222.204.128,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.160.204.97,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.229.154.169,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.76.222.57,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-1.64.220.189,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-35.220.203.221,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-104.29.69.103,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-8.218.22.210,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.254.166.61,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-218.102.219.109,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-112.120.127.204,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-202.81.231.138,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-35.220.234.78,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.160.204.29,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-69.160.172.56,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.199.27.67,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.238.5.0,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.23.240.179,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-84.235.169.234,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-45.113.163.13,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-104.29.68.80,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-8.218.48.92,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-130.162.184.173,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-35.220.233.83,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.135.95.17,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.30.252.95,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.243.139.85,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-113.252.129.190,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-1.36.251.177,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-39.115.137.14,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.129.216.150,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.236.189.92,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-23.224.33.64,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-35.241.103.110,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-8.217.154.218,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-45.153.130.138,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-104.29.69.11,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.47.100.76,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-45.207.218.232,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-163.53.246.105,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-91.229.133.176,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-35.220.208.85,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-8.217.49.34,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.12.217.187,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.160.204.10,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-223.18.59.243,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-35.220.205.180,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.38.113.28,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-91.229.132.162,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-172.67.113.216,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.55.97.137,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-14.136.178.21,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.92.7.35,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-45.87.103.122,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.160.204.21,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-134.122.169.36,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.76.189.102,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.150.118.149,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-14.0.203.49,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-104.29.68.56,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.149.27.36,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.225.156.147,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.92.139.150,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-104.29.59.154,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-129.146.46.164,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-122.10.10.137,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-119.236.12.62,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-156.251.176.35,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.207.143.44,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.243.139.243,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-8.210.42.171,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-45.152.67.66,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-124.156.140.186,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-104.29.69.108,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-152.32.219.171,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-104.29.67.155,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-8.210.207.214,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.23.187.8,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-46.3.105.154,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.160.204.184,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-8.218.1.163,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-18.167.194.154,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.160.204.5,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-216.108.248.72,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.160.204.15,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.92.5.141,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.96.128.101,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-104.29.59.137,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-45.126.126.199,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-35.241.116.11,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-20.2.72.122,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-8.210.85.222,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-27.126.248.253,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.147.190.237,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.160.204.213,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-45.207.11.69,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.76.227.40,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-118.26.38.134,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.160.204.20,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-8.210.119.11,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-202.81.232.223,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.160.204.216,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.159.198.135,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.150.80.83,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.181.25.31,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-210.57.88.22,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.160.204.66,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.92.54.64,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.243.160,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-152.32.211.101,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.12.60.12,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-104.29.69.75,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-104.29.67.20,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-84.235.162.241,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-122.10.49.80,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.236.80.110,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.243.183.127,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-156.251.176.112,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-20.24.86.128,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-104.29.59.63,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-45.207.218.252,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-152.32.175.121,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-112.120.110.145,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.150.3.46,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.160.204.235,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.211.68.124,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-199.119.138.78,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-104.29.59.194,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-157.119.103.66,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-43.155.28.244,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-45.87.103.35,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-202.60.225.164,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.150.29.153,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-154.9.246.2,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-165.154.68.195,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-144.21.52.138,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-46.3.105.191,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-18.162.97.34,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-150.109.76.72,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.235.18.253,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.150.90.230,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-38.147.170.242,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-66.232.5.208,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-152.32.239.90,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.243.203.119,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-141.11.76.209,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.160.204.175,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-104.29.59.196,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.160.204.3,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-202.66.205.138,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-103.160.204.31,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-206.237.31.98,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-104.29.59.185,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.150.55.115,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-193.123.35.210,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-34.92.80.155,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-89.168.75.212,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-47.238.131.39,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
-104.29.59.180,443,443,TRUE,HKG,Asia Pacific,Hong Kong,16 ms,40357 kB/s
+52.175.33.38,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.183,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+123.202.145.26,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+138.19.30.55,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+58.176.95.46,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.127.248.51,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.223.39.101,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.177,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.125.215,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.175.14.144,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.159.196.17,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.154.235.241,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+221.127.50.207,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+23.26.217.213,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+156.251.176.83,63294,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,30216,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.152.64.147,36031,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,25122,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27014,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,33463,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27054,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.247.134.147,47575,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,29513,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,43678,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.79.224,65250,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,21333,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+5.180.98.146,22827,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,21396,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27061,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,12573,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,32305,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,18241,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,58150,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+89.213.239.190,48832,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,19075,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+202.181.27.218,14526,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,38645,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.240.13.199,41846,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+165.154.43.92,35184,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+89.213.219.24,28411,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.91.177,40110,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.207.11.69,8899,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27013,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,25930,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,12493,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,43330,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,30387,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,41220,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27033,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.201.93.212,19443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.76.100.62,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,16703,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.125,59217,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.90.152,34052,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.32.240.153,34237,2096,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.6.167.31,12666,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+165.154.43.92,35181,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31186,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.255.208.101,58582,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31170,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31173,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31126,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31168,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31121,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31171,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31179,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31147,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31195,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31172,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31185,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31191,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.166,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.216.175,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+42.3.74.25,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.210.215.39,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.180,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.186,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.181,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.220.72.40,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.169,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,21333,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,27709,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.87.103.78,19527,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,43678,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,20174,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,53448,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+157.254.32.30,27333,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,21723,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,31005,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,14088,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,16327,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,45804,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,27033,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.87.102.140,24852,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,27054,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,25200,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,27051,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,56545,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,25953,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,41482,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,25127,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,23615,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,53757,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,12573,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,43412,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,43330,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,21396,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,11937,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,31114,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,50729,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,41686,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,25111,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,26738,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,12381,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,29099,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,33463,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.192.179.186,25716,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.76.209,48156,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.164,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,22153,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+89.213.219.224,8443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+91.229.132.209,59430,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.216.250,12132,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.149.27.36,34237,2096,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,18732,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,45564,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,29513,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,52273,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,27383,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,49824,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,53787,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,27483,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,48940,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,24452,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,18241,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,31089,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,14648,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,39682,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.223,25629,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.177,50625,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,51846,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,34694,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,22761,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,45448,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,38645,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,30216,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,12365,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,28141,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,49877,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,41220,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,46962,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,24729,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+104.129.166.9,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,44348,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,44946,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,48548,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.177,41376,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,47761,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,33119,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,15641,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,54707,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.150.57.3,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,26887,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.3,59449,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,47509,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,45880,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.247.134.147,17043,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31177,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31184,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31189,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+206.237.21.220,24554,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31187,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.90.242,62001,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+178.253.32.30,52126,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31166,0,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+178.253.32.28,2024,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31143,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.32.168.249,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,27361,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,36791,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,52386,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,19515,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.108.134,6812,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.107.99,10716,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.107.123,14559,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.154,8711,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.39.199.63,12662,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.142.7,42612,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+37.123.196.17,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+3.112.254.49,2086,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+223.222.13.132,30491,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+178.253.32.134,56145,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+178.173.249.23,55737,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27050,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,30387,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27051,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,25930,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27013,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,25950,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27054,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,40722,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,31005,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,25122,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27061,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,25953,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27043,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.2,28301,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,42973,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,35795,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,11937,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,56111,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,47184,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,53831,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,22516,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,59473,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,23989,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,54707,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,11404,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31125,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31123,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31176,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31165,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31181,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31192,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31180,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31197,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31194,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31196,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.158,27312,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.216.141,50312,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+128.1.132.82,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.28.68.198,36567,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.255.209.141,48457,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.242.3.203,33999,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.115.40.133,36332,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+102.129.195.189,50587,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.238.71.9,8443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,20174,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,25956,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,25111,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,29149,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,25953,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,13564,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,53831,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,40353,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,44378,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31198,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+89.213.239.182,44366,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+206.237.20.121,50714,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31175,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+158.101.177.92,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.222.101.17,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+144.21.59.244,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.144.236.15,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.70.176.35,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+129.146.175.160,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.101.8,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.148.227.132,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.114.14,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+193.123.56.103,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+79.72.95.86,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+143.47.249.74,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+158.180.51.0,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+130.162.32.88,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+146.235.197.123,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+138.2.166.98,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+193.123.59.34,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+158.178.158.105,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.144.235.110,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+138.2.174.120,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+158.178.158.13,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.67.249.123,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+150.230.47.3,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+158.101.222.88,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+138.2.174.151,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.145.199.188,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+130.162.62.62,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+193.123.62.65,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+165.1.123.204,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+143.47.245.162,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.100.202,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+129.151.204.91,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.88.15.127,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.70.147.64,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.148.227.19,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+129.159.243.212,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+150.230.151.64,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.52.6,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+143.47.231.33,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+143.47.241.61,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+132.145.95.91,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+84.235.164.74,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+130.162.189.89,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+84.235.162.153,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+139.185.34.131,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.73.249,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.70.178.125,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+144.24.167.194,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+84.8.144.220,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+129.153.126.67,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.90.14,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+193.123.56.162,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+84.235.160.207,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+158.101.214.60,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+193.123.62.150,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+144.21.49.241,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+132.145.237.179,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.217,10043,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,58150,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.104.191,28761,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.20.223.95,18636,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.217,10072,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,58152,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27051,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+134.122.169.36,42779,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.149.48,35333,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.107.123,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.78.31.62,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.141.236.203,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+144.21.33.134,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+13.224.163.91,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.92.146.104,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.74.192.175,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.83.13.99,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.93.30.154,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.238.40.58,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.108.134,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.242.171.94,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.150.73.251,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+193.227.99.176,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.76.77.103,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+16.163.147.103,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.92.207.37,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.116.245.179,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+27.124.47.217,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.160.204.92,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.225.199.234,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.29,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+112.118.186.180,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.150.64.66,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.76.214.139,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.150.9.168,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.194.64.37,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+101.36.111.47,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+69.160.170.153,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.42.183,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.238.35.50,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.237.88.147,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+112.120.127.147,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.76.203.101,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.218.142.253,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.92.86.239,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+118.193.33.119,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+119.63.98.86,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.38.83.204,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+35.241.122.48,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+202.181.27.218,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.217.145.40,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.135.248.96,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+1.36.221.186,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.160.204.79,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.155.22.176,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.210.164.75,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.243.107.148,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.155.92.72,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+192.9.250.241,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.154.96.33,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+58.82.242.199,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+204.93.210.84,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.236.9.152,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+220.246.236.57,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.143.160.206,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+112.120.127.242,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.76.233.67,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.237.83.20,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+202.181.188.14,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.107.99,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+156.251.183.223,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+168.70.86.162,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+72.255.232.8,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.160.204.72,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.243.60.150,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+193.123.34.202,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+183.80.111.212,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+185.135.9.90,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+93.177.77.114,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.39.199.63,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.138,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.243.222.245,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.86.20.184,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+93.179.126.118,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.154.236.53,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.92.127.151,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+104.29.69.86,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+27.50.48.91,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+156.251.180.226,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+1.36.251.126,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.218,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+122.10.42.247,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.8.186.192,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.79.232.74,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.229.154.72,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+1.36.190.230,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.222.204.128,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.160.204.97,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.229.154.169,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.76.222.57,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+1.64.220.189,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+35.220.203.221,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+104.29.69.103,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.218.22.210,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.254.166.61,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+218.102.219.109,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+112.120.127.204,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+202.81.231.138,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+35.220.234.78,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.160.204.29,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+69.160.172.56,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.199.27.67,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.238.5.0,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.23.240.179,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+84.235.169.234,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.113.163.13,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+104.29.68.80,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.218.48.92,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+130.162.184.173,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+35.220.233.83,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.135.95.17,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.30.252.95,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.243.139.85,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+113.252.129.190,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+1.36.251.177,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+39.115.137.14,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.129.216.150,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.236.189.92,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+23.224.33.64,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+35.241.103.110,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.217.154.218,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.153.130.138,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+104.29.69.11,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.47.100.76,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.207.218.232,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+91.229.133.176,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+35.220.208.85,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.217.49.34,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.12.217.187,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.160.204.10,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+223.18.59.243,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+35.220.205.180,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.38.113.28,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+91.229.132.162,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+172.67.113.216,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.55.97.137,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+14.136.178.21,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.92.7.35,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.87.103.122,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.160.204.21,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+134.122.169.36,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.76.189.102,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.150.118.149,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+14.0.203.49,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+104.29.68.56,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.149.27.36,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.225.156.147,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.92.139.150,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+104.29.59.154,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+129.146.46.164,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+122.10.10.137,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+119.236.12.62,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+156.251.176.35,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.143.44,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.243.139.243,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.210.42.171,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.152.67.66,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+124.156.140.186,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+104.29.69.108,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.32.219.171,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+104.29.67.155,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.210.207.214,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.23.187.8,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.154,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.160.204.184,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.218.1.163,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+18.167.194.154,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.160.204.5,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+216.108.248.72,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.160.204.15,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.92.5.141,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.96.128.101,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+104.29.59.137,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.126.126.199,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+35.241.116.11,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+20.2.72.122,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.210.85.222,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+27.126.248.253,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.147.190.237,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.160.204.213,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.207.11.69,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.76.227.40,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+118.26.38.134,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.160.204.20,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.210.119.11,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+202.81.232.223,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.160.204.216,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.159.198.135,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.150.80.83,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.181.25.31,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+210.57.88.22,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.160.204.66,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.92.54.64,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.243.160,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.32.211.101,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.12.60.12,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+104.29.69.75,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+104.29.67.20,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+84.235.162.241,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+122.10.49.80,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.236.80.110,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.243.183.127,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+156.251.176.112,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+20.24.86.128,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+104.29.59.63,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.207.218.252,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.32.175.121,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+112.120.110.145,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.150.3.46,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.160.204.235,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.211.68.124,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+199.119.138.78,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+104.29.59.194,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+157.119.103.66,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.155.28.244,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.87.103.35,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+202.60.225.164,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.150.29.153,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.2,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+165.154.68.195,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+144.21.52.138,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.191,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+18.162.97.34,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+150.109.76.72,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.235.18.253,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.150.90.230,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.147.170.242,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+66.232.5.208,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.32.239.90,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.243.203.119,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.76.209,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.160.204.175,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+104.29.59.196,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.160.204.3,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+202.66.205.138,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.160.204.31,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+206.237.31.98,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+104.29.59.185,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.150.55.115,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+193.123.35.210,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.92.80.155,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+89.168.75.212,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.238.131.39,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+104.29.59.180,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
 42.200.72.46,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
 103.51.144.97,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
 182.16.78.246,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
@@ -1020,3 +1020,839 @@
 8.223.39.101,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
 43.247.134.147,47575,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
 154.9.246.169,51269,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+89.213.239.190,48832,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+89.213.219.24,28411,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+89.213.219.224,8443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.223.39.101,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+58.176.95.46,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+52.175.33.38,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+5.180.98.146,22827,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,27361,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,36791,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,52386,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,19515,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.108.134,6812,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.107.99,10716,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.107.123,14559,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.154,8711,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.39.199.63,12662,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.207.11.69,8899,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.240.13.199,41846,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.154.235.241,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.6.167.31,12666,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.142.7,42612,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+37.123.196.17,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+3.112.254.49,2086,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+223.222.13.132,30491,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+206.237.21.220,24554,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+202.181.27.218,14526,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+178.253.32.30,52126,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+178.253.32.28,2024,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+178.253.32.134,56145,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+178.173.249.23,55737,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+165.154.43.92,35184,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27050,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,30387,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27051,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,25930,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27013,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,25950,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27054,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,40722,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,31005,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,25122,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27061,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,25953,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27043,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+156.251.176.83,63294,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.2,28301,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,42973,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,35795,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,11937,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,56111,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,47184,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,53831,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,22516,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,59473,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,23989,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,54707,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,11404,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.201.93.212,19443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.32.240.153,34237,2096,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.91.177,40110,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.90.152,34052,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31125,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31173,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31143,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31123,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31176,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31165,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31181,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31192,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31180,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31197,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31194,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31184,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31196,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.158,27312,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.125,59217,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.216.141,50312,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+138.19.30.55,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+128.1.132.82,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+123.202.145.26,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.28.68.198,36567,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.255.209.141,48457,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.242.3.203,33999,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.115.40.133,36332,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+102.129.195.189,50587,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,30216,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.152.64.147,36031,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,25122,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27014,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,33463,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27054,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.247.134.147,47575,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,29513,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,43678,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.79.224,65250,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,21333,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,21396,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27061,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,12573,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,32305,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,18241,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,58150,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,19075,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,38645,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.177,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27013,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,25930,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,12493,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,43330,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,30387,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,41220,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27033,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.76.100.62,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,16703,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+165.154.43.92,35181,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31186,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.255.208.101,58582,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31170,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31126,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31168,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31121,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31171,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31179,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31147,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31195,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31172,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31185,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31191,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,21333,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,27709,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.87.103.78,19527,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,43678,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,20174,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,53448,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+157.254.32.30,27333,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,21723,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,31005,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.210.215.39,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,14088,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,16327,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,45804,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,27033,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.87.102.140,24852,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,27054,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,25200,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,27051,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,56545,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+42.3.74.25,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,25953,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,41482,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,25127,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,23615,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,53757,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,12573,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,43412,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,43330,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,21396,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,11937,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,31114,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,50729,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,41686,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,25111,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,26738,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,12381,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,29099,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,33463,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.192.179.186,25716,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.76.209,48156,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.164,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,22153,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+91.229.132.209,59430,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.216.250,12132,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.149.27.36,34237,2096,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,18732,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,45564,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,29513,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,52273,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,27383,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,49824,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,53787,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,27483,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,48940,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,24452,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,18241,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,31089,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,14648,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,39682,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.223,25629,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.177,50625,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,51846,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,34694,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,22761,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,45448,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,38645,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,30216,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,12365,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,28141,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,49877,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,41220,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,46962,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,24729,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.238.71.9,8443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,20174,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,25956,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,25111,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,29149,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,25953,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,13564,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.150.57.3,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,53831,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,40353,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,45880,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,44378,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,44946,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,44348,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31198,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+89.213.239.182,44366,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+206.237.20.121,50714,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31175,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.217,10043,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,58150,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.104.191,28761,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.20.223.95,18636,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.217,10072,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,58152,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,47509,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,15641,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27051,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+134.122.169.36,42779,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.149.48,35333,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+158.101.177.92,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.222.101.17,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+144.21.59.244,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.144.236.15,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.70.176.35,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+129.146.175.160,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.101.8,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.148.227.132,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.114.14,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+193.123.56.103,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+79.72.95.86,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+143.47.249.74,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+158.180.51.0,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+130.162.32.88,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+146.235.197.123,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+138.2.166.98,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+193.123.59.34,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+158.178.158.105,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.144.235.110,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+138.2.174.120,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+158.178.158.13,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.67.249.123,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+150.230.47.3,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+158.101.222.88,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+138.2.174.151,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.145.199.188,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+130.162.62.62,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+193.123.62.65,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+165.1.123.204,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+143.47.245.162,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.100.202,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+129.151.204.91,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.88.15.127,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.70.147.64,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.148.227.19,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+129.159.243.212,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+150.230.151.64,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.52.6,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+143.47.231.33,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+143.47.241.61,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+132.145.95.91,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+84.235.164.74,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+130.162.189.89,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+84.235.162.153,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+139.185.34.131,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.73.249,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.70.178.125,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+144.24.167.194,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+84.8.144.220,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+129.153.126.67,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.90.14,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+193.123.56.162,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+84.235.160.207,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+158.101.214.60,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+193.123.62.150,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+144.21.49.241,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+132.145.237.179,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.217,10058,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.217.136.56,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+157.254.33.94,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27053,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+206.206.104.42,56765,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27053,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+134.122.169.36,10399,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,31301,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.186,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.175.174,20368,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.216.175,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31166,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.175.104,22732,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+157.254.53.50,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,20174,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27033,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+134.122.169.36,58582,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31130,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.217,10014,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.217,10024,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.218.253.75,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+221.127.50.207,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+162.245.221.202,24238,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,40722,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,44348,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,47851,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,21723,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,59485,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,51269,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,53819,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,25930,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,29149,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,30387,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,25950,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,25122,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.47.120.145,25955,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,56545,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,58148,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,17266,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,25956,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,37587,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,27061,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,16224,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.143.44,13343,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+23.26.217.101,10001,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.180,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,10829,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,25200,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,33502,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,40729,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,27013,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+206.237.7.18,34237,2096,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+85.208.104.34,8080,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,27050,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.104.43,19515,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.255.209.117,21683,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,58148,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,47851,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,27483,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,33502,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,17266,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,49877,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,24499,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31167,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,28067,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.166,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,51269,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,10829,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31187,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.167,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.181,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,42118,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,59485,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31124,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31127,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31142,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31169,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,53819,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31150,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.108.51,46664,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,41686,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,56414,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31177,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,37587,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,11937,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,40729,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,40247,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31148,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.79.57.93,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,16224,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31128,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31149,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31146,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,34198,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31141,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31144,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31190,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.129.34,35333,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31189,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31174,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,41259,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,46664,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,15849,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,49758,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,38255,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.220.72.40,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.159.196.17,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.12.179.122,23041,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.169,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.32.168.249,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+89.213.239.190,48832,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+89.213.219.24,28411,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+89.213.219.224,8443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.223.39.101,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+58.176.95.46,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+52.175.33.38,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+5.180.98.146,22827,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,27361,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,36791,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,52386,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,19515,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.108.134,6812,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.107.99,10716,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.107.123,14559,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.154,8711,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.39.199.63,12662,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.207.11.69,8899,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.240.13.199,41846,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.154.235.241,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.6.167.31,12666,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.142.7,42612,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+37.123.196.17,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+3.112.254.49,2086,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+223.222.13.132,30491,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+206.237.21.220,24554,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+202.181.27.218,14526,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+178.253.32.30,52126,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+178.253.32.28,2024,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+178.253.32.134,56145,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+178.173.249.23,55737,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+165.154.43.92,35184,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27050,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,30387,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27051,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,25930,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27013,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,25950,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27054,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,40722,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,31005,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,25122,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27061,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,25953,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27043,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+156.251.176.83,63294,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.2,28301,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,42973,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,35795,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,11937,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,56111,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,47184,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,53831,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,22516,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,59473,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,23989,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,54707,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.174,11404,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.201.93.212,19443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.32.240.153,34237,2096,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.91.177,40110,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.90.152,34052,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31125,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31173,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31143,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31123,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31176,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31165,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31181,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31192,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31180,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31197,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31194,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31184,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31196,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.158,27312,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.125,59217,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.216.141,50312,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+138.19.30.55,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+128.1.132.82,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+123.202.145.26,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.28.68.198,36567,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.255.209.141,48457,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.242.3.203,33999,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.115.40.133,36332,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+102.129.195.189,50587,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,30216,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.152.64.147,36031,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,25122,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27014,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,33463,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27054,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.247.134.147,47575,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,29513,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,43678,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.79.224,65250,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,21333,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,21396,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27061,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,12573,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,32305,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,18241,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,58150,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,19075,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,38645,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.177,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27013,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,25930,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,12493,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,43330,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,30387,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,41220,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27033,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.76.100.62,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,16703,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+165.154.43.92,35181,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31186,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.255.208.101,58582,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31170,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31126,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31168,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31121,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31171,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31179,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31147,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31195,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31172,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31185,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31191,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,21333,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,27709,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.87.103.78,19527,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,43678,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,20174,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,53448,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+157.254.32.30,27333,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,21723,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,31005,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.210.215.39,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,14088,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,16327,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,45804,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,27033,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.87.102.140,24852,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,27054,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,25200,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,27051,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,56545,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+42.3.74.25,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,25953,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,41482,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,25127,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,23615,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,53757,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,12573,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,43412,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,43330,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,21396,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,11937,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,31114,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,50729,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,41686,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,25111,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,26738,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,12381,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,29099,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,33463,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.192.179.186,25716,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.76.209,48156,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.164,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,22153,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+91.229.132.209,59430,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.216.250,12132,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.149.27.36,34237,2096,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,18732,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,45564,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,29513,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,52273,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,27383,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,49824,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,53787,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,27483,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,48940,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,24452,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,18241,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,31089,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,14648,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,39682,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.223,25629,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.177,50625,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,51846,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,34694,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,22761,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,45448,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,38645,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,30216,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,12365,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,28141,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,49877,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,41220,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,46962,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,24729,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.238.71.9,8443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,20174,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,25956,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,25111,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,29149,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,25953,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,13564,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+34.150.57.3,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.250,53831,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,40353,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,45880,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,44378,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.209,44946,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,44348,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31198,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+89.213.239.182,44366,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+206.237.20.121,50714,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31175,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.217,10043,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.2,58150,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.104.191,28761,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.20.223.95,18636,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.217,10072,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,58152,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.92,47509,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.173,15641,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27051,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+134.122.169.36,42779,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.149.48,35333,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+158.101.177.92,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.222.101.17,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+144.21.59.244,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.144.236.15,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.70.176.35,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+129.146.175.160,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.101.8,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.148.227.132,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.114.14,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+193.123.56.103,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+79.72.95.86,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+143.47.249.74,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+158.180.51.0,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+130.162.32.88,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+146.235.197.123,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+138.2.166.98,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+193.123.59.34,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+158.178.158.105,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.144.235.110,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+138.2.174.120,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+158.178.158.13,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.67.249.123,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+150.230.47.3,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+158.101.222.88,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+138.2.174.151,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.145.199.188,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+130.162.62.62,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+193.123.62.65,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+165.1.123.204,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+143.47.245.162,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.100.202,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+129.151.204.91,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+47.88.15.127,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.70.147.64,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.148.227.19,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+129.159.243.212,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+150.230.151.64,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.52.6,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+143.47.231.33,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+143.47.241.61,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+132.145.95.91,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+84.235.164.74,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+130.162.189.89,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+84.235.162.153,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+139.185.34.131,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.73.249,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.70.178.125,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+144.24.167.194,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+84.8.144.220,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+129.153.126.67,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.147.90.14,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+193.123.56.162,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+84.235.160.207,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+158.101.214.60,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+193.123.62.150,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+144.21.49.241,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+132.145.237.179,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.217,10058,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.217.136.56,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+157.254.33.94,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27053,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+206.206.104.42,56765,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.89,27053,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+134.122.169.36,10399,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.192,31301,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.186,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.175.174,20368,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.216.175,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31166,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.175.104,22732,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+157.254.53.50,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,20174,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.152,27033,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+134.122.169.36,58582,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31130,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.217,10014,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.105.217,10024,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.218.253.75,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+221.127.50.207,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+162.245.221.202,24238,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,40722,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,44348,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,47851,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,21723,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,59485,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,51269,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,53819,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,25930,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,29149,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,30387,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,25950,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,25122,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.47.120.145,25955,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,56545,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,58148,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,17266,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,25956,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,37587,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,27061,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,16224,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.143.44,13343,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+23.26.217.101,10001,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.180,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,10829,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.11,25200,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,33502,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.168,40729,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,27013,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+206.237.7.18,34237,2096,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+85.208.104.34,8080,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+163.53.246.105,27050,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.104.43,19515,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.255.209.117,21683,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,58148,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,47851,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,27483,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,33502,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,17266,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,49877,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,24499,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31167,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,28067,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.166,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,51269,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,10829,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31187,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.167,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.181,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,42118,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,59485,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31124,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31127,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31142,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31169,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,53819,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31150,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.108.51,46664,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,41686,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.245.27,56414,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31177,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,37587,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,11937,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,40729,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,40247,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31148,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.79.57.93,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,16224,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31128,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31149,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31146,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.9.246.169,34198,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31141,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31144,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31190,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.129.34,35333,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31189,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.77.234,31174,8443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,41259,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,46664,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,15849,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,49758,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,38255,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.220.72.40,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.159.196.17,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.12.179.122,23041,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.169,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+152.32.168.249,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.129.34,35333,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,25127,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.132.99,43412,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.87.102.140,24852,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,46664,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,41259,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+46.3.110.5,49758,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+154.201.93.212,19443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.115.40.133,36332,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+8.223.39.101,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+23.26.217.101,10001,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+43.247.134.147,47575,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+134.122.169.36,42779,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+134.122.169.36,10399,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+219.76.13.180,443,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.143.44,13343,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.207.11.69,8899,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.6.167.31,12666,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+45.152.64.147,36031,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+141.11.175.174,20368,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+103.28.68.198,36567,443,TRUE,HKG,Asia Pacific,Hong Kong,44,21.47
+38.207.129.34,35333,443,TRUE,HKG,Asia Pacific,Hong Kong,175,3.06
+38.207.132.99,25127,443,TRUE,HKG,Asia Pacific,Hong Kong,47,2.72
+38.207.132.99,43412,443,TRUE,HKG,Asia Pacific,Hong Kong,43,2.23
+45.87.102.140,24852,443,TRUE,HKG,Asia Pacific,Hong Kong,346,1.85
+46.3.110.5,46664,443,TRUE,HKG,Asia Pacific,Hong Kong,18,1.45
+46.3.110.5,41259,443,TRUE,HKG,Asia Pacific,Hong Kong,14,1.3
+46.3.110.5,49758,443,TRUE,HKG,Asia Pacific,Hong Kong,19,0.82
+154.201.93.212,19443,443,TRUE,HKG,Asia Pacific,Hong Kong,367,0.64
+103.115.40.133,36332,443,TRUE,HKG,Asia Pacific,Hong Kong,54,0.49
+8.223.39.101,443,443,TRUE,HKG,Asia Pacific,Hong Kong,22,0.47
+23.26.217.101,10001,443,TRUE,HKG,Asia Pacific,Hong Kong,328,0.36
+43.247.134.147,47575,443,TRUE,HKG,Asia Pacific,Hong Kong,317,0.36
+134.122.169.36,42779,443,TRUE,HKG,Asia Pacific,Hong Kong,86,0.34
+134.122.169.36,10399,443,TRUE,HKG,Asia Pacific,Hong Kong,87,0.34
+219.76.13.180,443,443,TRUE,HKG,Asia Pacific,Hong Kong,205,0.31
+38.207.143.44,13343,443,TRUE,HKG,Asia Pacific,Hong Kong,336,0.23
+45.207.11.69,8899,443,TRUE,HKG,Asia Pacific,Hong Kong,19,0.1
+38.6.167.31,12666,443,TRUE,HKG,Asia Pacific,Hong Kong,143,0.1
+45.152.64.147,36031,443,TRUE,HKG,Asia Pacific,Hong Kong,124,0.08
+141.11.175.174,20368,443,TRUE,HKG,Asia Pacific,Hong Kong,416,0.06
+103.28.68.198,36567,443,TRUE,HKG,Asia Pacific,Hong Kong,345,0.03
